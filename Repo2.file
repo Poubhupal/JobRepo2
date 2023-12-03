@@ -32,6 +32,6 @@ Local Git side
 15) git add --all >>also can be use to add multiple files 
     together 
 
-
+Whenever child branch is updated it will not affacted either upper or lower branch it will be affacted only on the same branch where the update is done
 
 

@@ -4,3 +4,28 @@
 This is done from the GitHub side
 This repo should be cloned from my local sytem so copy the repository address 
 which is under code and that is   "https://github.com/Poubhupal/JobRepo2.git"
+*****************************************************
+Local Git side
+
+1) Create a folder in any location and rt click and click on Git bash
+2) git init > which stablished the connection in that folder
+3) git config --global user.email "poubhupal@gmail.com"
+   git config --global user.name  "Bhupal"
+   >> Which establihed the connetion who is the user
+4) git clone https://github.com/Poubhupal/JobRepo2.git    >this  
+    is the address  
+    from GitHub coppied earlier
+5)  cd JobRepo2  > go to the folder
+6)  git pull
+
+7)  ls > check the current file in the folder
+8)  Check the file in the local folder and make the update what 
+    you want to make
+9) git status
+10) git add filenamewith extension
+11) git commit -m "message"
+12) git push origin main or master
+
+
+
+

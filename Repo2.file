@@ -29,6 +29,8 @@ Local Git side
 13)Go to GitHub refress and check if the file is loaded
 14) git add .  >> add multiple files in the stagging area at 
     single add from the current directory/Repository
+15) git add --all >>also can be use to add multiple files 
+    together 
 
 
 

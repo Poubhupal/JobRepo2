@@ -5,3 +5,4 @@ Third time updated from Central repository GitHub
 Fourth time updated from Local system Git
 
 New update
+git add --all to add multiple fines together to add in the stagging area

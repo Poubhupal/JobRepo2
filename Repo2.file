@@ -32,6 +32,8 @@ Local Git side
 15) git add --all >>also can be use to add multiple files 
     together 
 
+Trying to merge development and testing branch
+
 lests try to push in the master branch
 
 

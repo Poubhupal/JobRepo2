@@ -26,7 +26,9 @@ Local Git side
 11) git commit -m "message"
 12) git push origin main or master
 
-Go to GitHub refress and check if the file is loaded
+13)Go to GitHub refress and check if the file is loaded
+14) git add .  >> add multiple files in the stagging area at 
+    single add from the current directory/Repository
 
 
 

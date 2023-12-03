@@ -33,5 +33,6 @@ Local Git side
     together 
 
 Whenever child branch is updated it will not affacted either upper or lower branch it will be affacted only on the same branch where the update is done
+Another production branch is created in reference of testing branch
 
 

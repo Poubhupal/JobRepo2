@@ -48,6 +48,8 @@ git merge
 git add --all
 git remote add origin 'https://github.com/Poubhupal/JobRepo2.git'
 
+git pull origin master
+
 
 
 

@@ -32,7 +32,17 @@ Local Git side
 15) git add --all >>also can be use to add multiple files 
     together 
 
-Anoher branch testing is created from reference of main branch 
+lests try to push in the master branch
+
+****************************************************************
+From local
+git branch >to list branches
+git branch branchname >creating new branch
+git checkout <branchname> switch to another branch
+git checkout -b <branchname>  >>creating and switching in a new  
+    branch
+git branch -m <oldname> <newname>  >renaming a branch
+git merge 
 
 
 

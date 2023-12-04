@@ -24,7 +24,7 @@ Local Git side
 9) git status
 10) git add filenamewith extension
 11) git commit -m "message"
-12) git push origin main or master
+12) git push origin main or master   OR git push -u origin master
 
 13)Go to GitHub refress and check if the file is loaded
 14) git add .  >> add multiple files in the stagging area at 

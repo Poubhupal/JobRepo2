@@ -31,6 +31,7 @@ Local Git side
     single add from the current directory/Repository
 15) git add --all >>also can be use to add multiple files 
     together 
+16) git remote add origin "https://github.com/Poubhupal/JobRepo2.git"
 
 lests try to push in the master branch
 

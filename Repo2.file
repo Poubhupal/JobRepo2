@@ -45,6 +45,9 @@ git checkout -b <branchname>  >>creating and switching in a new
 git branch -m <oldname> <newname>  >renaming a branch
 git merge 
 
+git add --all
+git remote add origin 'https://github.com/Poubhupal/JobRepo2.git'
+
 
 
 
